@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "site": "edutectube",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      ".gitignore",
+      ".git/**",
+      ".firebase/**",
+      "**/.*",
+      "**/.*/**",
+      "**/node_modules/**"
+    ]
+  }
+}
