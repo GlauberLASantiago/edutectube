@@ -1,4 +1,4 @@
-const CACHE = 'edutectube-shell-v1';
+const CACHE = 'edutectube-shell-v2';
 const SHELL = [
   './',
   './index.html',
